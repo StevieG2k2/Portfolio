@@ -90,3 +90,6 @@ div.level{
 div.columns has-text-centered{
 	float:left;
 }
+navbar is-primary{
+	background-color:white;
+}
