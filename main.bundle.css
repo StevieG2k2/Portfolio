@@ -85,7 +85,7 @@ div.hero-body{
 }
 div.level{
 	float:left;
-	margin-left:100px;
+	margin-left:0px;
 }
 div.columns has-text-centered{
 	float:left;
